@@ -1,4 +1,7 @@
-Hi 👋 My name is Davide =======================  Computer Engineer -----------------  * 🌍  I'm based in Caltanissetta (Sicily) * 🚀  I'm currently working on [PiDMX](http://lidmx.net)
+Hi 👋 My name is Davide 
+=======================  Computer Engineer -----------------  
+* 🌍  I'm based in Caltanissetta (Sicily) 
+* 🚀  I'm currently working on [PiDMX](http://lidmx.net)
 
 ### Skills
 
