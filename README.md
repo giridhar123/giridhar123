@@ -5,7 +5,7 @@ Computer Engineer
 -----------------  
 
 * 🌍  I'm based in Caltanissetta (Sicily) 
-* 🚀  I'm currently working on [PiDMX](http://lidmx.net)
+* 🚀  I'm currently working on [PiDMX](https://pidmx.net)
 
 ### Skills
 
