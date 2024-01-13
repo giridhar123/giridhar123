@@ -32,6 +32,8 @@ Computer Engineer
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+    <a href="https://www.salesforce.com/it/" target="_blank" rel="noreferrer">
+        <img src="https://assets.stickpng.com/images/62965ad62be59dc55430cac4.png" width="36" height="36" alt="Salesfroce" /></a>
 </p> 
 
  ### Socials
